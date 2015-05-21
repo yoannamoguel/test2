@@ -3,3 +3,6 @@ a
 b
 b
 c
+cookies
+reg
+coke
